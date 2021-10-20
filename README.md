@@ -1,2 +1,2 @@
 # etoLaredo
-Investigations to Air Pollution Risks in Laredo Texas
+Investigations to air pollution risks in Laredo, Texas
